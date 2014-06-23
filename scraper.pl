@@ -7,7 +7,7 @@ use warnings;
 my $dt = Database::DumpTruck->new({dbname => 'data.sqlite', table => 'data'});
 
 # Insert some data
-$dt->insert([map {{
+$dt->insert({
     Name => "Jack",
     Age => 24,
-}} @rows]);
+});
