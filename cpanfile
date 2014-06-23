@@ -1,1 +1,1 @@
-requires "git://github.com/lkundrak/perl-database-dumptruck.git";
+requires "Database::DumpTruck";
