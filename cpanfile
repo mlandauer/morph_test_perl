@@ -1,1 +1,24 @@
+requires "DBD::SQLite";
+requires "DBI";
+requires "File::Slurp";
+requires "HTML::Form";
+requires "HTML::Parser";
+requires "HTML::Tree";
+requires "HTTP::Message";
+requires "JSON";
+requires "JSON::XS";
+requires "LWP::Protocol::HTTPS";
+requires "Test::Exception";
+requires "Test::Pod";
+requires "Text::CSV";
+requires "Text::CSV_XS";
+requires "URI";
+requires "LWP";
+requires "XML::DOM";
+requires "XML::LibXML";
+requires "XML::Parser";
+requires "XML::SAX::Expat";
+requires "XML::Simple";
+requires "XML::XPath";
+
 requires "Database::DumpTruck", "1.2";
