@@ -1,2 +1,1 @@
-requires 'Plack', '1.0000';
-requires 'DBI', '1.6';
+requires "git://github.com/lkundrak/perl-database-dumptruck.git";
