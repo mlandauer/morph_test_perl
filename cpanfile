@@ -3,7 +3,7 @@ requires "DBI";
 requires "File::Slurp", "9999.19";
 requires "HTML::Form", "6.03";
 requires "HTML::Parser", "3.71";
-requires "HTML::Tree", "5.03"
+requires "HTML::Tree", "5.03";
 requires "HTTP::Message", "6.06";
 requires "JSON", "2.90";
 requires "JSON::XS", "3.01";
