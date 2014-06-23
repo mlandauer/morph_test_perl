@@ -7,7 +7,7 @@ requires "HTML::Tree";
 requires "HTTP::Message";
 requires "JSON";
 requires "JSON::XS";
-requires "LWP::Protocol::HTTPS";
+requires "LWP::Protocol::https";
 requires "Test::Exception";
 requires "Test::Pod";
 requires "Text::CSV";
